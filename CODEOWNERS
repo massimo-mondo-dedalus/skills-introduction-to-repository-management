@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @massimo-mondo-dedalus
+/src/backend/database.py      @massimo-mondo-dedalus
+/src/backend/routers/auth.py  @massimo-mondo-dedalus
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @massimo-mondo-dedalus
